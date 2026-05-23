@@ -2,6 +2,10 @@
 tags:
   - Education & Skills
   - Promoting Best Practices
+authors:
+  - ciara-flanagan
+  - daniel-shown
+  - kendall-fortney
 ---
 # Onboarding Students for Open Source Internship Programs
 
@@ -127,7 +131,3 @@ A key insight from our experience is that onboarding is most effective when it c
 - [Onboarding Graduate Leads for Open Source Internship Programs](https://github.com/CURIOSSorg/curioss-patterns/blob/main/open-source-capstone-course.md)
 
 ## Contributors & Acknowledgement
-
-- Ciara Flanagan (CURIOSS), <https://orcid.org/0009-0005-3153-7673>
-- Daniel Shown (Saint Louis University), <https://orcid.org/0009-0002-5716-8835>
-- Kendall Fortney (University of Vermont), <https://orcid.org/0009-0006-3898-0771>
