@@ -9,6 +9,10 @@ For more information about patterns in general, please see the [About Patterns](
 We have listed the CURIOSS Patterns by the common challenges or priorities of CURIOSS members. Patterns may be listed more than once if they relate to multiple themes.
 <!-- material/tags -->
 
+## Stay in the loop
+
+<p>Want to know when a new pattern is published? Subscribe to our <a href="feed_rss_created.xml">RSS feed</a>. Each item credits the pattern's authors with a link to their ORCID profile, so you can follow the people behind the work as well as the patterns themselves.</p>
+
 ## About Patterns
 
 ### What Are Patterns?
