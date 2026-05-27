@@ -15,11 +15,13 @@ A FastAPI + Claude-powered chat interface for exploring the CURIOSS patterns col
    pip install -r requirements.txt
    ```
 
-2. Create a `.env` file in the `chat-app/` directory with your API key:
+2. Copy the example env file and add your API key:
 
+   ```bash
+   cp .env.example .env
    ```
-   ANTHROPIC_API_KEY=your_key_here
-   ```
+
+   Then edit `.env` and replace `your_api_key_here` with your actual key.
 
 ## Running
 
